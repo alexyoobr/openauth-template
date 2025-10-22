@@ -5,6 +5,11 @@ declare namespace Cloudflare {
 	interface Env {
 		AUTH_STORAGE: KVNamespace;
 		AUTH_DB: D1Database;
+		// MIRE BI API configuration
+		MIRE_API_URL: string;
+		MIRE_API_KEY?: string;
+		MIRE_API_USERNAME?: string;
+		MIRE_API_PASSWORD?: string;
 	}
 }
 interface Env extends Cloudflare.Env {}

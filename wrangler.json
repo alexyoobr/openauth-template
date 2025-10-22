@@ -16,6 +16,12 @@
       "database_id": "b3d6a793-97d1-4851-a68a-c8ec0b83aab6"
     }
   ],
+  "vars": {
+    "MIRE_API_URL": "https://mire.omnni.com.br/api/bi",
+    "MIRE_API_KEY": "243702be-e3c7-11ef-8af4-02001700e806",
+    "MIRE_API_USERNAME": "vtexappkey-lojatuddub2b-UNFLSV",
+    "MIRE_API_PASSWORD": "DLUBEIGYLNLLOMBKCRJICLOVLNYJFUNFXLSOGNKHXYMAVKBBPNEMBKVRXYPQJXSQZGODTMDPGCKEYNABLXURPBEMPARHYTXAFWAPVYHCJPFZZRTJYOEMDAAYCBNTUWRN"
+  },
   "observability": {
     "enabled": true
   },
